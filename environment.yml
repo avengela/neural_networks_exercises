@@ -1,0 +1,10 @@
+name: neural_networks
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python == 3.8.10
+  - pandas
+  - matplotlib
+  - numpy
+  - keras
