@@ -8,3 +8,5 @@ dependencies:
   - matplotlib
   - numpy
   - keras
+  - tensorflow
+  - pillow
